@@ -1,0 +1,14 @@
+addr
+NAME
+1
+2
+23
+DISTANCE_EDUCATION
+FIRST
+ADMIN
+1
+11
+22
+33
+info 5
+show 5 5
