@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/ray1024/projects/collectioncontroller/commands" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/ray1024/projects/collectioncontroller/terminal" includeSubdirectories="true" />
+      <file url="file://$PROJECT_DIR$/src/ray1024/projects/collectioncontroller/data/StudyGroup.java" />
+      <file url="file://$PROJECT_DIR$/src/ray1024/projects/collectioncontroller/data/StudyGroupCollection.java" />
+      <file url="file://$PROJECT_DIR$/src/ray1024/projects/collectioncontroller/interfaces/IExecute.java" />
+      <file url="file://$PROJECT_DIR$/src/ray1024/projects/collectioncontroller/interfaces/IInput.java" />
+      <file url="file://$PROJECT_DIR$/src/ray1024/projects/collectioncontroller/interfaces/IParse.java" />
+      <file url="file://$PROJECT_DIR$/src/ray1024/projects/collectioncontroller/tools/Inputter.java" />
+      <file url="file://$PROJECT_DIR$/src/ray1024/projects/collectioncontroller/data/Person.java" />
+    </excludeFromCompile>
+  </component>
+</project>
