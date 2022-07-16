@@ -1,4 +1,4 @@
-addr
+add
 NAME
 1
 2
@@ -10,5 +10,7 @@ ADMIN
 11
 22
 33
-info 5
-show 5 5
+info
+show
+execute_script script.txt
+
